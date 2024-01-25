@@ -28,6 +28,11 @@ start celest
 flutter run
 ```
 
+### 5. Run the Json Database
+```bash
+npx json-server --watch --port 8000 ./data/db.json
+```
+
 ## 📚 Working with Celest
 
 ### Define Models
